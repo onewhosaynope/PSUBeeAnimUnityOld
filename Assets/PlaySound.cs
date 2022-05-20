@@ -5,7 +5,13 @@ using UnityEngine.Audio;
 
 public class PlaySound : MonoBehaviour
 {
-    public void PlyaVoice() {
-        GetComponent<AudioSource>().Play();
+    public AudioClip voiceClip;
+    public AudioClip zzzClip;
+    public void PlayVoice() {
+        GetComponent<AudioSource>().PlayOneShot(voiceClip);
+    }
+
+    public void PlayZZZ() {
+        GetComponent<AudioSource>().PlayOneShot(zzzClip);
     }
 }

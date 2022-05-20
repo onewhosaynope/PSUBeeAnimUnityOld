@@ -2618,7 +2618,42 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 2.85
-    functionName: PlyaVoice
+    functionName: PlayZZZ
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 6.5666666
+    functionName: PlayZZZ
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 10.833333
+    functionName: PlayZZZ
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 16.5
+    functionName: PlayZZZ
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 21.95
+    functionName: PlayZZZ
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 29.3
+    functionName: PlayVoice
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
